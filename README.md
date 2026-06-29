@@ -243,5 +243,5 @@ Todas as operações usam `random_state=42` para reproducibilidade total:
 ## 📧 Contato
 
 **Autor:** Eduardo Tiyo  
-**Email:** etiyo@tsp.tech  
+**Email:** tiyo@alunos.utfpr.edu.br
 **Instituição:** UTFPR Campo Mourão — Pós-Graduação em Ciência da Computação
